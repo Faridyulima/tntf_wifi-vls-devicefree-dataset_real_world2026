@@ -1,2 +1,28 @@
 # tntf_wifi-vls-devicefree-dataset_real_world2026
-These are Wi-Fi &amp; VLS device-free dataset collected at Department of Nuclear Engineering and Engineering Physics, Universitas Gadjah Mada in 2025.
+These are Wi-Fi &amp; VLS device-free datasets collected at Department of Nuclear Engineering and Engineering Physics, Universitas Gadjah Mada in 2026.
+The datasets are designed to support research on indoor localization, with a particular focus on multi-sensor, device-free approaches applied in real-world environments. Our objective is to develop accurate device-free location estimation methods that leverage complementary characteristics to improve performance. This work can enable niche applications, such as monitoring the well-being of elderly individuals.
+
+# Dataset overview
+The dataset includes Wi-Fi Received Signal Strength Indicator (RSSI) and VLS illuminance data collected at typical classroom and lobby.
+
+# Dataset collected at classroom
+| Attribute | Description |
+| :--- | :--- |
+| Number of reference points | 28 |
+| Number of RSSI features | 56 |
+| Number of illuminance features | 8 |
+| Label | x, y |
+| Number of data sample | 2,800 records |
+| Number of single target sample | 63 records |
+| Number of multi target sample | 66 records |
+
+# Dataset collected at Lobby
+| Attribute | Description |
+| :--- | :--- |
+| Number of reference points | 33 |
+| Number of RSSI features | 56 |
+| Number of illuminance features | 8 |
+| Label | x, y |
+| Number of data sample | 3,300 records |
+| Number of single target sample | 150 records |
+| Number of multi target sample | 150 records |
