@@ -13,8 +13,7 @@ The dataset includes Wi-Fi Received Signal Strength Indicator (RSSI) and VLS ill
 | Number of illuminance features | 8 |
 | Label | x, y |
 | Number of data sample | 2,800 records |
-| Number of single target sample | 63 records |
-| Number of multi target sample | 66 records |
+| Number of target sample | 140 records |
 
 # Dataset collected at Lobby
 | Attribute | Description |
@@ -24,5 +23,5 @@ The dataset includes Wi-Fi Received Signal Strength Indicator (RSSI) and VLS ill
 | Number of illuminance features | 8 |
 | Label | x, y |
 | Number of data sample | 3,300 records |
-| Number of single target sample | 150 records |
-| Number of multi target sample | 150 records |
+| Number of target sample | 165 records |
+
